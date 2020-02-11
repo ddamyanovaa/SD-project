@@ -1,0 +1,6 @@
+char
+queue c e
+stack h r x
+doubly-linked-list o p q
+stack a b
+stack f

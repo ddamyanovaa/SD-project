@@ -1,0 +1,5 @@
+bool
+queue 0 1 0 0 1
+stack 1 0 0 1 0 0 1
+doubly-linked-list 1 0 0 1 0
+stack 1 0 1 0 1 0

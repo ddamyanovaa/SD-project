@@ -1,0 +1,7 @@
+int
+queue 5 6 4 2 5 7 8 9
+queue 7 8 2 12 0 4
+doubly-linked-list 10 9 5 6 7
+stack 7 8 9
+stack 1 2 3
+queue 10 18 19 11

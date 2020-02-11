@@ -1,0 +1,4 @@
+string
+stack this is file of strings
+queue bla bla
+doubly-linked-list dog cat cow
